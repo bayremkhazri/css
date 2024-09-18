@@ -1,0 +1,39 @@
+.menu {
+	margin-left: 1000px;
+}
+
+.menu-title {
+	text-align: center;
+	letter-spacing: 10px;
+	margin: 3%;
+}
+
+.section-menu {
+	margin: 5% 5%;
+}
+
+.about {
+	margin: 5% 25%;
+}
+
+.img-about {
+	width: 500px !important;
+}
+
+.formul {
+	margin: 5% 5%;
+	background-color: rgb(163, 163, 175);
+	padding: 3%;
+	border-radius: 10px;
+}
+
+.form-btns {
+	margin-left: 50%;
+}
+
+.footer {
+	text-align: center;
+	background-color: rgb(119, 115, 115);
+	color: #fff;
+	padding: 5%;
+}
